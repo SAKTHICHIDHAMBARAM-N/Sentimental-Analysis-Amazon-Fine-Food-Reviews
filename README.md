@@ -1,7 +1,7 @@
 # Sentimental-Analysis-Amazon-Fine-Food-Reviews
 
 # Objective
-To perform Sentimental Analysis to determine whether the review is Postive or Negative.
+To perform Sentimental Analysis to determine whether the given review is Postive or Negative.
 
 # Dataset Information
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
