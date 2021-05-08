@@ -1,4 +1,4 @@
-# Sentimental-Analysis-Amazon-Fine-Food-Reviews
+# Sentimental-Analysis-Amazon-Fine-Food-Reviews-with-Deployment
 
 # Objective
 To perform Sentimental Analysis to determine whether the given review is Postive or Negative.
